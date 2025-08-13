@@ -1,4 +1,4 @@
-# c104assign – Statistical Computations on CSV Data -2022
+# Statistical Computations on CSV Data -2022
 
 > ⚠️ **Note:** This is a **very old Python assignment-style project** for basic statistical analysis.  
 > The code reads numeric data from a CSV file (`Weight.csv`) and computes **mean**, **median**, and **mode** using separate Python scripts.  
